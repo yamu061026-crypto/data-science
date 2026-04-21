@@ -1,0 +1,30 @@
+Data types
+
+Numeric Data Types
+1.int 
+x = 10
+
+2.float 
+y = 3.14
+
+3.complex
+z = 2 + 3j
+
+4.String (str) 
+name = "Yamini"
+
+5.List 
+a = [1, 2, 3]
+
+6.Tuple 
+b = (1, 2, 3)
+
+7.Set 
+s = {1, 2, 3}
+
+8.Boolean 
+True / False
+x = True
+
+9. None
+x = None
